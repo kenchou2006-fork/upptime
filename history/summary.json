@@ -4,17 +4,17 @@
     "url": "https://arm1.oracle.kenchou2006.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/arm1.oracle.kenchou2006.eu.org.ico",
     "slug": "oracle-arm-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 0,
-    "timeWeek": 542,
-    "timeMonth": 625,
-    "timeYear": 991,
+    "time": 985,
+    "timeDay": 579,
+    "timeWeek": 554,
+    "timeMonth": 623,
+    "timeYear": 985,
     "dailyMinutesDown": {}
   }
 ]
